@@ -1,2 +1,2 @@
-# UdemyAnalysis
-Code for Medium Article
+# Udemy Analysis
+This contains the code for the following Medium Article. 
